@@ -1,4 +1,4 @@
-Name:           aseprite-gpl
+Name:           aseprite
 Version:        1.1.8
 Release:        1
 Summary:        Animated sprite editor & pixel art tool
